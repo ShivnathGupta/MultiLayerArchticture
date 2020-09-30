@@ -1,0 +1,15 @@
+D:\Shiv data\Sahil\MultiLayerProject.Data\bin\Debug\netcoreapp3.1\MultiLayerProject.Data.deps.json
+D:\Shiv data\Sahil\MultiLayerProject.Data\bin\Debug\netcoreapp3.1\MultiLayerProject.Data.runtimeconfig.json
+D:\Shiv data\Sahil\MultiLayerProject.Data\bin\Debug\netcoreapp3.1\MultiLayerProject.Data.runtimeconfig.dev.json
+D:\Shiv data\Sahil\MultiLayerProject.Data\bin\Debug\netcoreapp3.1\MultiLayerProject.Data.dll
+D:\Shiv data\Sahil\MultiLayerProject.Data\bin\Debug\netcoreapp3.1\MultiLayerProject.Data.pdb
+D:\Shiv data\Sahil\MultiLayerProject.Data\bin\Debug\netcoreapp3.1\MultiLayerProject.Core.dll
+D:\Shiv data\Sahil\MultiLayerProject.Data\bin\Debug\netcoreapp3.1\MultiLayerProject.Core.pdb
+D:\Shiv data\Sahil\MultiLayerProject.Data\obj\Debug\netcoreapp3.1\MultiLayerProject.Data.csprojAssemblyReference.cache
+D:\Shiv data\Sahil\MultiLayerProject.Data\obj\Debug\netcoreapp3.1\MultiLayerProject.Data.AssemblyInfoInputs.cache
+D:\Shiv data\Sahil\MultiLayerProject.Data\obj\Debug\netcoreapp3.1\MultiLayerProject.Data.AssemblyInfo.cs
+D:\Shiv data\Sahil\MultiLayerProject.Data\obj\Debug\netcoreapp3.1\MultiLayerProject.Data.csproj.CoreCompileInputs.cache
+D:\Shiv data\Sahil\MultiLayerProject.Data\obj\Debug\netcoreapp3.1\MultiLayerProject.Data.csproj.CopyComplete
+D:\Shiv data\Sahil\MultiLayerProject.Data\obj\Debug\netcoreapp3.1\MultiLayerProject.Data.dll
+D:\Shiv data\Sahil\MultiLayerProject.Data\obj\Debug\netcoreapp3.1\MultiLayerProject.Data.pdb
+D:\Shiv data\Sahil\MultiLayerProject.Data\obj\Debug\netcoreapp3.1\MultiLayerProject.Data.genruntimeconfig.cache
